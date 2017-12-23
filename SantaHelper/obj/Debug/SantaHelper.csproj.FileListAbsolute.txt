@@ -1,0 +1,9 @@
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\bin\Debug\SantaHelper.exe.config
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\bin\Debug\SantaHelper.exe
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\bin\Debug\SantaHelper.pdb
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\obj\Debug\SantaHelper.SantaForm.resources
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\obj\Debug\SantaHelper.Properties.Resources.resources
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\obj\Debug\SantaHelper.ResultForm.resources
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\obj\Debug\SantaHelper.csproj.GenerateResource.Cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\obj\Debug\SantaHelper.exe
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\SantaHelper\SantaHelper\obj\Debug\SantaHelper.pdb
